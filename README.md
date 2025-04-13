@@ -1,7 +1,7 @@
 # Healthcare Data Normalization and Vizualization
 
 ## Description
-In this project, we implement a data normalization process where we take a flat structured dataset in csv form and normalize it to a snowflake schema relational model. The data is migrated from the csv into a MySQL database. Using this relational model, we load the data into tableau public and generate a business vizualization dashboard for further business analytics.
+In this project, we implement a data normalization process where we take a flat structured synthetic dataset in csv form and normalize it to a snowflake schema relational model. The data is migrated from the csv into a MySQL database. Using this relational model, we load the data into tableau public and generate a business vizualization dashboard for further business analytics.
 
 ## Dataset
 This dataset contains synthetic healthcare records for 531 patient visits to a legacy healthcare system. It comprises 47 columns, capturing detailed information across various domains such as:
