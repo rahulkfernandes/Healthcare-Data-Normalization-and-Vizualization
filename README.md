@@ -23,7 +23,7 @@ This dataset contains synthetic healthcare records for 531 patient visits to a l
 ## Installation
 ### Clone git repository
 ```
-git clone git@git.rc.rit.edu:s25-dsci-644-rahul/project-3.git
+git clone https://github.com/rahulkfernandes/Healthcare-Data-Normalization-and-Vizualization.git
 ```
 
 ### Install dependecies
