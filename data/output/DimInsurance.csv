@@ -1,0 +1,532 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+003add87,4ba19c4e,"Ross, Martinez and Johnson",24fb41de-7f7,cf85f054,HMO
+0137d560,ba4aef0a,"Ross, Martinez and Johnson",37423262-607,a965c10b,Medicare
+0172ad63,3254e3a0,Roberts-Thomas,f13ce410-e26,3537e468,Medicare
+01ff80b2,6be5afdd,"Wilson, Thomas and Davis",1d0f6634-74f,4e6a6f2f,HMO
+02514093,e426dfae,"Ross, Martinez and Johnson",4dcc7ef8-3d0,b5dd0277,HMO
+03711146,fc78adad,Forbes Inc,1e75be73-6f4,6d404a19,HMO
+03b80ecf,f585a110,"Ross, Martinez and Johnson",144b449f-b30,4e614a80,Medicare
+03f19a0a,e4712010,"Wilson, Thomas and Davis",c39f639e-941,3854ca8c,Medicaid
+041fa376,ce417f5b,"Ross, Martinez and Johnson",aa184278-fc3,1976ef15,Medicaid
+042ce57d,568de477,Roberts-Thomas,9fa9260c-f4c,0e70909f,Medicare
+0441fca9,5a129e66,"Wilson, Thomas and Davis",c467bc1c-586,b9501efc,HMO
+04d1e0d8,dfa11956,Roberts-Thomas,20e9fb20-ce3,2bce02c7,Medicaid
+05097fad,3c62af44,"Ross, Martinez and Johnson",7ff8227e-6ae,f9896538,Medicare
+0692811b,9b6402fe,"Wilson, Thomas and Davis",247d0973-a6e,e982eb3f,HMO
+075bc475,1cf5412f,Roberts-Thomas,97d88e44-7a3,f9eb31db,Medicaid
+087aa9a8,24fa8260,"Wilson, Thomas and Davis",9e40de64-a02,ed2ce93c,Medicare
+089205cb,5e6c389a,"Ross, Martinez and Johnson",f1e5fcb3-fc4,5215c997,Medicaid
+08e0b726,17b39341,Forbes Inc,448f0c81-82a,d55049da,HMO
+09842453,e9efad21,Forbes Inc,15430c2a-c69,7bbb41d1,HMO
+0a037260,4380f478,"Burnett, Arroyo and Abbott",3cddb237-f08,0f267a20,PPO
+0a5f89c2,41a3a0ce,"Wilson, Thomas and Davis",869f609b-cb8,d212c41a,Medicaid
+0ab4a80e,df1dfc46,Forbes Inc,b7103e9a-439,e1e2fc28,Medicare
+0ad04ee5,814854d8,Roberts-Thomas,2e105512-967,0a35f047,PPO
+0c304577,ce86b1e3,Forbes Inc,541ebe30-9b1,c2cc8d43,Medicare
+0c338967,744c04af,"Burnett, Arroyo and Abbott",ffa48445-10a,ab986d79,Medicare
+0d9d20d1,4aa2822f,"Wilson, Thomas and Davis",95fde541-dd8,996f49f9,PPO
+0dc0700a,96070428,Roberts-Thomas,ca383604-87b,4ced8b02,Medicaid
+0e797f8e,08b0a30f,"Ross, Martinez and Johnson",7919238c-2e5,983b7718,HMO
+0eb2f96f,ee2a0a0a,"Wilson, Thomas and Davis",ffc0811e-2cf,1138da18,PPO
+0efb26c3,97b050a7,Forbes Inc,592c5704-ffb,832b260e,HMO
+0f037364,994a43e7,"Ross, Martinez and Johnson",0f6006e3-713,952ad7c7,PPO
+0fc46775,d35372c2,Forbes Inc,b981cf87-2ed,fcf713ea,HMO
+0fdd2f50,d3e70ca6,"Burnett, Arroyo and Abbott",2ed004d7-540,44b4f3e3,Medicare
+105bcf36,632d8579,Roberts-Thomas,6961b646-634,efe5dd54,PPO
+10daab84,45ad0b6e,Forbes Inc,36e34b77-47a,6c829809,Medicare
+110d0350,ae187d9d,"Wilson, Thomas and Davis",44076c06-66d,c737447d,PPO
+11473abd,12d9b88d,"Burnett, Arroyo and Abbott",2871d763-461,b2549aa2,HMO
+115d9f0a,99e9cad6,"Ross, Martinez and Johnson",e34d6c2c-e2f,7a1f94b9,PPO
+119ef26f,1fdc78db,"Ross, Martinez and Johnson",2e7fe737-784,2aaa4b3f,Medicare
+120b7446,5345bbbf,"Wilson, Thomas and Davis",9091d1a9-67c,70afdcfb,Medicaid
+12654479,0b8762ae,"Ross, Martinez and Johnson",2fe496a8-fc9,7c0f2428,Medicaid
+12a12e8e,f6789650,"Ross, Martinez and Johnson",a69a4650-483,219e354a,Medicare
+1314cc9e,2468a822,"Ross, Martinez and Johnson",002814de-1fa,a533c057,Medicaid
+144c4c31,ddc1d6e1,Forbes Inc,268025a6-5ff,5d8ffcbe,Medicaid
+14e0cc3d,215bdfcb,"Burnett, Arroyo and Abbott",41816c31-17f,cf00002b,Medicaid
+164a029a,5cec8cf7,Forbes Inc,e8994350-a41,43f08a32,PPO
+173a595c,b3a54787,"Ross, Martinez and Johnson",63d8f1df-8b6,383d5021,Medicare
+17584821,1a62e905,"Burnett, Arroyo and Abbott",28e1b291-695,f51f8fe1,Medicare
+1761ec6a,87d09cfc,Roberts-Thomas,715c8ae4-7df,d19ac3d3,HMO
+17a81fd1,80fc1d1f,Roberts-Thomas,300c24f8-a16,61964b0d,Medicaid
+17d646a1,3e5f55ca,Forbes Inc,00a3275d-cde,50dc6758,Medicaid
+18308f3a,88918402,"Burnett, Arroyo and Abbott",5aa91689-3fd,2ae4b308,Medicaid
+18490b8e,f031000a,"Ross, Martinez and Johnson",a94d14d9-2a2,24fd2b01,PPO
+1944a4e3,201d9946,"Ross, Martinez and Johnson",39890f61-e30,06b434a2,HMO
+1995d320,2cce262f,"Wilson, Thomas and Davis",5178fd35-969,daae1a5a,Medicaid
+1a318474,c8d65c90,"Burnett, Arroyo and Abbott",07b25ad6-58f,71a7ac99,Medicare
+1b289cd1,07d5017e,Forbes Inc,9a5714c5-3ef,58596e6c,Medicare
+1c18cf72,bbd3838d,"Ross, Martinez and Johnson",f3c810c2-318,43c6b3fc,HMO
+1d9ca6f6,fbcf2ea4,"Burnett, Arroyo and Abbott",9e80d238-603,f5611989,HMO
+1dd0e6e6,656ad170,"Wilson, Thomas and Davis",cbeab20f-72b,3a3d2592,Medicare
+1eadfbb9,8997275f,Forbes Inc,036da705-ead,326b3750,Medicare
+1ee355cb,0e93b312,"Wilson, Thomas and Davis",54640ff5-6a6,5ac1a7a7,Medicare
+1fcb3e93,fce1f956,Roberts-Thomas,360572e0-795,a21f343f,Medicare
+2039e01d,b81919eb,Roberts-Thomas,9dc0cfb2-681,81bf11ce,PPO
+2103890f,54c5b051,"Burnett, Arroyo and Abbott",d4354796-778,55dce20d,Medicaid
+2174107a,c881c53a,"Wilson, Thomas and Davis",9ee1af3f-227,9f2d2afe,HMO
+21fb7215,a05cb5db,Roberts-Thomas,d30c210e-5ed,7b310a27,Medicaid
+227308bf,7c9b5601,Roberts-Thomas,d39c67f0-272,00cc2782,HMO
+2279d4b7,7d1c4609,Forbes Inc,ea445aa1-f7d,61703931,Medicaid
+228dbe95,3963468f,"Wilson, Thomas and Davis",b566fdbc-304,7d704eb5,HMO
+22af2184,f5153346,Forbes Inc,9f24a8e7-e03,a59683a5,Medicaid
+231ab0cf,a1ec018c,Roberts-Thomas,2b1e1999-b05,6bdc5de1,HMO
+2375f916,8eacfdb5,"Burnett, Arroyo and Abbott",3acad04b-7cb,bff63d2f,Medicare
+239ffd7e,bd450b08,"Ross, Martinez and Johnson",3c2d9a9d-9cc,a11dd7b5,PPO
+23ff4b80,80bf6fee,Roberts-Thomas,40fdeda5-8e6,7b49b3ea,HMO
+24d07057,a944c591,"Ross, Martinez and Johnson",a842ca75-025,73066093,HMO
+24d92e5f,1ad99118,"Burnett, Arroyo and Abbott",6851cf20-3e9,003f5622,Medicare
+24e44750,43fe535a,Roberts-Thomas,12eb630b-1e2,ffc95041,PPO
+259a4aa0,78a772d7,Forbes Inc,6297ca1c-3f1,f5dc447f,Medicare
+25f7025c,73ca4bee,Roberts-Thomas,2267351f-7e2,e2464513,Medicaid
+26f81e88,5c8c927e,Forbes Inc,2e377d1e-ac7,7c4feb90,Medicare
+274e79c0,8681255a,"Wilson, Thomas and Davis",cc37d7f8-d66,0824e5ed,HMO
+2785b24b,3ce57167,Forbes Inc,bc634bb3-5f1,2544d12f,Medicare
+28ffcdd2,2be70276,"Burnett, Arroyo and Abbott",8a2c3f94-e2a,f7aa03f5,PPO
+2932b954,8449deb6,"Burnett, Arroyo and Abbott",141dc88e-376,20c7034d,Medicare
+2975432c,91a575b8,"Ross, Martinez and Johnson",af2b9363-ee3,69d136a4,Medicaid
+2a0fe789,be7cd73f,Roberts-Thomas,6dc67829-0a5,11dff266,Medicare
+2aa75705,1c01b331,Roberts-Thomas,96579963-9e2,f3d2ceab,Medicare
+2b43e85a,09f63d9f,Forbes Inc,7f417992-5bd,0f374fff,PPO
+2c4f8f3d,412b3836,"Wilson, Thomas and Davis",6b184985-c36,db9bcbad,Medicare
+2c79bda0,2237acfe,Forbes Inc,8d01e145-35c,3ad7df14,PPO
+2d311169,b7a421cc,"Ross, Martinez and Johnson",a594ebb8-8e0,21145d9f,Medicaid
+2d4493e2,4f03b96d,"Ross, Martinez and Johnson",cf9370cf-503,e73dad63,Medicaid
+2d44fdd5,51e3b8b4,"Ross, Martinez and Johnson",0c8f21bb-e1f,7ba040a5,PPO
+2d94287f,381576b9,"Wilson, Thomas and Davis",017a05e1-c85,48811049,Medicaid
+2d9c3bc6,ad51ff5c,"Burnett, Arroyo and Abbott",3e4b737a-666,99a0a9ea,Medicaid
+2db40458,73dde0a4,"Wilson, Thomas and Davis",9abb8a55-181,2a58aaa2,HMO
+2e52eb55,e05e4511,"Burnett, Arroyo and Abbott",d9f0e0aa-334,11dfee10,Medicare
+2e6b3e7d,2e5caf70,"Wilson, Thomas and Davis",2c6e582f-99d,783ead32,PPO
+2eb1ce72,3a873a8f,"Ross, Martinez and Johnson",75ba1372-7bf,8b4b958c,Medicare
+2ebeec49,0d6b8200,"Burnett, Arroyo and Abbott",e9b86ce8-99a,938767c7,Medicaid
+309dc2e9,4ce1e3b7,"Burnett, Arroyo and Abbott",e02f8490-516,b07c0327,PPO
+30d1bb68,382ce0c1,"Burnett, Arroyo and Abbott",2ac89cfc-09c,33871e63,Medicare
+31419533,30fb450d,"Wilson, Thomas and Davis",392ec2c4-cad,8c588409,PPO
+31999ddf,2d1d1f5c,Roberts-Thomas,19cd919f-597,b05592ac,PPO
+32c4f8bf,ccc74adf,Roberts-Thomas,26337bf2-0fa,0e5058d4,HMO
+32f3c7d2,6602edaa,Roberts-Thomas,6174e1e5-1ea,0de66bde,Medicaid
+33b87c23,df9463be,"Burnett, Arroyo and Abbott",227f84f1-1a4,a963b385,PPO
+34151ff4,28dc91f6,"Ross, Martinez and Johnson",eb30872d-7a5,1ea4c346,PPO
+3469ccad,c1db2d0e,"Ross, Martinez and Johnson",bcc77d33-e62,e2a47f90,Medicare
+352bbc78,0235ba41,"Burnett, Arroyo and Abbott",0dc26cf8-4ee,0aa2120b,HMO
+36342b4a,93b9023d,Forbes Inc,96225885-65f,2f5dfde8,Medicaid
+36461c3f,d4511506,"Burnett, Arroyo and Abbott",b54e3965-867,2c7a06a2,Medicaid
+36949560,164cf7ca,Roberts-Thomas,15872f10-0e4,3ba0897c,PPO
+36a2e7fe,6bf40d93,Roberts-Thomas,195a8e6a-78d,e461fe32,Medicare
+3746d49c,6f61566a,"Burnett, Arroyo and Abbott",674b9c77-92e,8e5c52bf,PPO
+3798b32b,91e605c4,"Wilson, Thomas and Davis",0befe956-9b9,9696235c,PPO
+3832038e,f63a5eb6,Forbes Inc,da9898fa-dcb,8ba1f2ac,Medicaid
+3add3d2a,b42e5a1c,"Wilson, Thomas and Davis",aa32c4e0-fe5,81bd669c,Medicaid
+3b998d70,0e09f319,Forbes Inc,c85a902c-e80,322f686a,PPO
+3c03f28b,b59772f2,Roberts-Thomas,872fa470-0a3,5bb98d0f,HMO
+3c8e1297,d9bdb6cf,"Ross, Martinez and Johnson",cd03f1af-6e4,5201164a,Medicare
+3d6a0546,355d4c86,"Ross, Martinez and Johnson",50ff8aba-64d,fb7cb02c,HMO
+3e1a3cbb,eb27efb6,Forbes Inc,06289ddb-7d6,1ea43b98,Medicaid
+3e6c4004,55a1870f,"Wilson, Thomas and Davis",1f3d9e0e-29c,78ad7a1f,PPO
+3e81d851,bee1f6f5,"Burnett, Arroyo and Abbott",06f23b8f-d18,4e28f701,HMO
+3e9eb471,ca95f47a,Roberts-Thomas,8fee0892-690,ae35fadd,Medicare
+3ed4c1d8,ced617dc,"Burnett, Arroyo and Abbott",db95e04d-ad0,a80665e1,HMO
+3f503e50,bcb42613,"Wilson, Thomas and Davis",7d51b6a7-10d,a459b896,Medicaid
+40104954,b96955bb,Forbes Inc,16a0afa9-e76,ed7e6b23,Medicaid
+40398269,c6bc85bd,"Burnett, Arroyo and Abbott",9487a92c-620,414e3c8b,Medicaid
+405d9026,db9cae12,"Wilson, Thomas and Davis",a7475440-ab8,d23644f7,Medicare
+40f26f19,8af3bd7f,"Burnett, Arroyo and Abbott",666f29c4-489,7a82a514,Medicaid
+41872f7c,8421fe43,Roberts-Thomas,2bf1d6b9-8d0,4a61d5c4,HMO
+41b96646,b40d45a6,"Ross, Martinez and Johnson",154d4f66-427,47b4319e,Medicare
+42394274,f150a794,"Ross, Martinez and Johnson",e11d0a58-d37,ae6ce2e0,HMO
+4247b620,87976761,"Wilson, Thomas and Davis",42b81ef5-222,fb42c671,Medicaid
+425aa81e,66485b8b,Forbes Inc,f713f5e1-a4e,08d24d0a,Medicare
+43b53d2a,568108c2,"Wilson, Thomas and Davis",4ecad712-dae,164a9f1e,Medicare
+443be9d5,10ef9a79,Roberts-Thomas,f792b5c8-882,b1f9a88c,PPO
+44c8d2db,68453a1d,"Ross, Martinez and Johnson",26bd8608-91b,d10d94ae,Medicare
+45867ed0,8222e420,Roberts-Thomas,8a57c99d-ae4,b3c029e9,Medicare
+45c99ce6,3d9231c8,"Ross, Martinez and Johnson",30c6fb1e-8d0,0c12f533,Medicaid
+46624624,55d4b716,Roberts-Thomas,7f71820d-138,b9cd9e44,Medicaid
+469bdf2e,09c1c89a,"Wilson, Thomas and Davis",8e04cbb7-2e0,9cc5f8f8,Medicare
+47997767,5cd09a13,"Burnett, Arroyo and Abbott",e376daa0-28d,711e4707,Medicare
+489dbd59,1911572e,"Wilson, Thomas and Davis",b65abbce-e28,1fbef047,Medicaid
+489f13c5,2a4a027d,"Burnett, Arroyo and Abbott",dabfad90-e26,583282a5,PPO
+48b1d689,9e9fe7ca,"Burnett, Arroyo and Abbott",f95022fd-58f,edb949fd,PPO
+491a72f0,fc92929e,"Wilson, Thomas and Davis",8c5d695d-fda,36a2b286,PPO
+49a65a8a,71d351e5,"Wilson, Thomas and Davis",e32619c8-7b0,787dc73d,HMO
+49d09c67,d80f80ed,"Burnett, Arroyo and Abbott",71ac9df7-dd9,d770e34b,Medicaid
+4a0d96bf,3f41f7f1,Forbes Inc,ad047986-ea7,26b76b63,HMO
+4a51a5d2,d3d3cc1a,"Burnett, Arroyo and Abbott",d3424b04-4fd,f3495072,Medicaid
+4acb1905,210c023f,Forbes Inc,143d24f4-33d,ff91aba7,Medicaid
+4b778f11,b33be672,Roberts-Thomas,19dbc874-a8e,add7ce3f,Medicaid
+4d4cbff1,3f304925,"Ross, Martinez and Johnson",0c9cc5d2-4f8,a8a384df,Medicaid
+4e731aa4,74df75fb,Roberts-Thomas,e7363d6a-c1a,6f81f275,Medicare
+50682199,248d5d98,"Wilson, Thomas and Davis",80fba363-ff6,2617ce3c,Medicaid
+50a693eb,32e65e49,Roberts-Thomas,2cc69c9c-099,2e4d7d79,Medicaid
+517c0ce7,112749f4,Roberts-Thomas,59894438-bcc,a0ce72f0,HMO
+51e39c78,b27c027d,"Ross, Martinez and Johnson",e7911e1d-6cf,12ec0c0e,Medicare
+525b2e33,d3a4b3f9,"Ross, Martinez and Johnson",9c436cec-e28,18f22474,Medicare
+52745dee,b339a812,"Wilson, Thomas and Davis",2059e4e3-9af,8dd6a8e1,PPO
+527a213f,e24457dc,"Wilson, Thomas and Davis",b807b8ce-387,e4651672,Medicaid
+536567ae,8f114c72,"Burnett, Arroyo and Abbott",5a7c1510-fc4,9632659e,Medicaid
+53772b32,a99a7a15,"Burnett, Arroyo and Abbott",3febc22e-b4a,19e96d38,PPO
+5410c4b0,097188c4,Forbes Inc,ecc429d0-46e,31eca0b3,HMO
+545177fb,6e4e7c2b,"Ross, Martinez and Johnson",55ae37c9-f4f,13eb936c,Medicare
+55218694,5f0564c7,"Wilson, Thomas and Davis",bf6330e8-b4b,75244428,PPO
+5549bef5,b9c7bb9a,Roberts-Thomas,0bba2ce7-249,9b616284,Medicare
+5584523e,fbbb1a2a,Roberts-Thomas,a3606f8c-563,aceb8fc8,Medicaid
+55c922d4,8e2e111b,"Wilson, Thomas and Davis",46851247-daa,a3ba88c1,PPO
+55e24280,5b8e4836,"Ross, Martinez and Johnson",1428bc65-696,75badbf4,PPO
+55ef2f46,04f773e5,Roberts-Thomas,65dd8fde-2be,a7c3e2fa,Medicaid
+568452ac,ec27bdba,"Wilson, Thomas and Davis",dfca3767-d60,c56280c2,Medicaid
+56b19ada,0d1f78ff,"Wilson, Thomas and Davis",0f104fe2-047,bd9f46d0,Medicare
+57a687c6,26431d71,"Ross, Martinez and Johnson",c1ab3307-c65,1c508fbf,HMO
+5806090f,61eda766,"Burnett, Arroyo and Abbott",a6415aa4-5dd,2031faba,HMO
+59af5689,52c55ead,"Wilson, Thomas and Davis",822e7383-2b2,353d9b79,Medicare
+5a3d607f,e52948c0,Forbes Inc,26a5b38e-7d7,f7c2d3db,PPO
+5a41166c,c83f9605,"Burnett, Arroyo and Abbott",018ef0e1-42c,0d36bc9a,PPO
+5a4af4a6,700c2030,"Wilson, Thomas and Davis",dae383e9-9d3,6c43b24a,Medicaid
+5a9f4338,54129b68,Roberts-Thomas,e4fba712-d36,5e4d5523,HMO
+5b4e9109,21bd666b,"Burnett, Arroyo and Abbott",4f34654f-633,c0d85ef9,PPO
+5bf149fe,8af5e2f3,Forbes Inc,41c3cfb3-10f,9b780279,Medicaid
+5c4167d1,02a0bd69,"Wilson, Thomas and Davis",fc4d1580-e33,21587968,PPO
+5c55937e,3ee7b7b7,"Burnett, Arroyo and Abbott",0ddd4315-284,abf6d7b1,Medicaid
+5d377589,2a88ccbc,Forbes Inc,9958a479-9f6,82cddfe8,HMO
+5dd789c7,d093e386,Roberts-Thomas,4bec0a56-a54,ed08e86c,Medicare
+5ddc4f16,84852ea2,"Burnett, Arroyo and Abbott",29a33086-7de,be564e20,HMO
+5df14cb1,c08287ed,Forbes Inc,3f46bebe-de0,dbbb9ac8,Medicaid
+600ce56c,a3515387,"Ross, Martinez and Johnson",33f8ca6e-c87,e03f5016,PPO
+60b8f0a4,811f9f5b,"Wilson, Thomas and Davis",3e4a1161-6bd,71f10bd0,PPO
+60e0d371,20e2c4a2,Forbes Inc,7191c148-64d,cb3945f0,HMO
+61e1e53f,b7da2756,"Ross, Martinez and Johnson",91005dae-b57,9e98bb1a,PPO
+620723d0,825ceb9b,Roberts-Thomas,8fd7dda6-ff2,c4f1559b,HMO
+6260ee80,96ea0058,Forbes Inc,62488615-a6c,44436f13,HMO
+6261b6bb,bdbf165e,Roberts-Thomas,8f534b68-a53,c7c2e0b1,Medicaid
+627ff3a2,a9771513,"Ross, Martinez and Johnson",baca8642-4d6,31662b48,PPO
+62b25379,da7eda0d,"Burnett, Arroyo and Abbott",1ebaf871-ea2,83a0dcf2,Medicaid
+62f0a7b5,60a1e58c,Roberts-Thomas,de30a0e3-de6,208cdeed,PPO
+633dd27e,78a11ef5,Forbes Inc,da01a0b4-c6b,4ac3a419,HMO
+638a8f4c,8e13294a,Forbes Inc,383f0c10-cda,644414ef,HMO
+63a9da85,92c55cd1,"Wilson, Thomas and Davis",984934d8-cd1,03fe1230,PPO
+64486302,04e63b39,Roberts-Thomas,60706be9-5f9,d8b283cf,Medicaid
+65721f0d,b9852161,Roberts-Thomas,15918403-184,0fa35d7d,PPO
+659f0275,12d653ca,"Ross, Martinez and Johnson",6aa0ab35-4e2,e1f46ae2,Medicaid
+661b622c,3dccfdbe,"Wilson, Thomas and Davis",da12d347-e10,817cbc77,Medicare
+665fec3e,cc2203e5,"Burnett, Arroyo and Abbott",4102f704-f8e,b63c40f4,PPO
+669b19c4,6a77a9c3,"Burnett, Arroyo and Abbott",7e056d9e-188,98d2cc39,Medicaid
+66be8de7,09835e85,Forbes Inc,45688bcc-050,b765d435,Medicaid
+66d9d664,8915af10,"Ross, Martinez and Johnson",ca876354-5d8,268b99b4,HMO
+67e0dfb4,bd27ce4a,Forbes Inc,c3712768-a6e,52e140ce,PPO
+688b2a6f,19ef3a29,Roberts-Thomas,1be73f88-0df,ae5c5c52,Medicaid
+69229130,baea2d78,"Ross, Martinez and Johnson",d2aad276-ed0,0fa5b499,HMO
+6a20d910,221f5ea4,Roberts-Thomas,8c1ef615-f1b,8b1e81eb,Medicare
+6a383410,280b1801,Forbes Inc,80549f3e-d94,8b93e403,Medicaid
+6ab3e7f0,75b66ed2,"Burnett, Arroyo and Abbott",4c238b51-6c4,094a66d4,Medicaid
+6b243503,4c936cdb,"Wilson, Thomas and Davis",cc9bd1ee-8cc,19c5e13c,PPO
+6b5e95a1,c762ad0c,Forbes Inc,5b86a45d-4af,f95c660e,Medicaid
+6b7e3c6b,fe419945,"Wilson, Thomas and Davis",669d9437-ff6,38c94156,HMO
+6bed10ee,5425c000,Roberts-Thomas,a965b8a4-995,e20f8499,Medicaid
+6c53c838,435d6f4c,"Wilson, Thomas and Davis",e3afa2c0-d35,33a2a8ee,Medicaid
+6d34ba46,58981e9a,"Ross, Martinez and Johnson",0993decc-586,891b0a66,Medicaid
+6e309e0a,473ab994,"Burnett, Arroyo and Abbott",89480a38-437,8924c19d,PPO
+70551800,83be299e,"Wilson, Thomas and Davis",4f1f2fce-555,01a7dd63,Medicaid
+70670183,25625b15,Roberts-Thomas,71c3c64a-0da,9da68f7a,HMO
+71235c02,0fe55271,"Ross, Martinez and Johnson",99115bd8-9db,f4a3bed4,Medicare
+716b960a,ece2d7b8,Forbes Inc,2b31f43b-6e0,c55d3c04,HMO
+71ff6704,b23875a8,Forbes Inc,716b4e0b-f7b,ffd547f5,HMO
+724f776f,4975449f,"Burnett, Arroyo and Abbott",f87b86af-699,c22e067a,PPO
+732ec473,a112d441,Roberts-Thomas,a1cfbafb-5b0,9ea3b8dc,HMO
+73632651,c7556cf9,Forbes Inc,ffee3286-a0a,34559b04,HMO
+73ea095c,27753693,"Burnett, Arroyo and Abbott",748f2cfe-f3f,dfc6a31b,HMO
+74c89cca,9fb550c1,"Burnett, Arroyo and Abbott",a4c63048-564,e14f9b37,Medicaid
+75197602,165da0cb,"Ross, Martinez and Johnson",6b3d9e11-71f,6043f3b0,Medicare
+7581253f,85e4117e,"Burnett, Arroyo and Abbott",563bd83b-184,40506ad6,HMO
+7583a2f7,b4c577fb,"Wilson, Thomas and Davis",8a7d9fdd-858,442e7ec6,Medicare
+7590af7a,3fcfddb8,"Burnett, Arroyo and Abbott",a8906571-88f,9e0f9c73,HMO
+75b72d9e,6c152d7b,Roberts-Thomas,14dbcd03-d5d,82d0d7b8,Medicaid
+76c48403,6a911355,"Ross, Martinez and Johnson",ec69e679-f02,303fce54,PPO
+77517d94,980adc7e,"Burnett, Arroyo and Abbott",2811feb6-420,d848698b,PPO
+7798e93e,bf2be845,"Ross, Martinez and Johnson",f89b60b7-18e,b323ae59,Medicaid
+7942443c,299e1f19,Forbes Inc,41cb41cc-9f7,ca6e07c8,PPO
+79935a01,743e18bf,"Burnett, Arroyo and Abbott",74de9563-001,5cefdcec,HMO
+7aef65ba,6a029d75,Roberts-Thomas,837aafb6-fcb,ca7cb607,Medicaid
+7b2ab2c9,ab082dcf,Roberts-Thomas,b29f66d3-29b,d5f4854e,Medicare
+7bdf0aa5,54a954ed,Forbes Inc,5841e0ee-1d2,06c1b272,HMO
+7be4c9e2,349dfb9f,"Ross, Martinez and Johnson",4ef0ee09-c5f,1ef6f842,HMO
+7c0888cf,ca17163b,"Wilson, Thomas and Davis",28d4f995-c4d,1bcaff0c,Medicare
+7d40a778,11b96cfc,"Burnett, Arroyo and Abbott",54588f23-9e6,34d1ae6f,Medicaid
+7da60907,a1fc61b9,"Burnett, Arroyo and Abbott",7c90d82c-9be,2be6b653,Medicare
+7f0902d6,bcb5917f,"Wilson, Thomas and Davis",4515083a-460,b431f0e9,PPO
+7fb6bff3,51e87dcf,Forbes Inc,7457b9f5-5bd,aa17feb0,HMO
+7fe90662,3684aad9,"Burnett, Arroyo and Abbott",e0def21a-1af,b49014e1,Medicare
+7fedacb1,1b175c23,"Wilson, Thomas and Davis",ab87c9eb-2a1,4bf5bdad,Medicare
+8015219d,f8e3662f,"Ross, Martinez and Johnson",234acfa7-12c,dd3dc426,PPO
+82569605,a37247eb,"Ross, Martinez and Johnson",2dc8f441-777,111c863b,HMO
+82690936,b41e5600,Roberts-Thomas,2132fab5-e64,6ad60446,Medicare
+830da0af,764dd0b9,Forbes Inc,9eb5c5e1-386,e07a6f8b,Medicare
+831d21da,13921e33,"Burnett, Arroyo and Abbott",bc31f290-9f0,5633a56b,PPO
+83892689,85a3d0e1,Roberts-Thomas,b0d5e5d6-1f5,40caa26e,Medicare
+84518d60,0c76234c,"Burnett, Arroyo and Abbott",7ef61d1c-c9a,07a60cde,HMO
+84f61a6f,9c4b3c0f,Forbes Inc,a2d72f27-42e,75a52735,PPO
+8517944b,10b32c79,"Ross, Martinez and Johnson",ba5ece6c-375,3ec6c733,Medicaid
+85399b57,3d8132a8,"Wilson, Thomas and Davis",c7ba0181-b36,33ad27e4,PPO
+85e425f0,4afc3bed,"Wilson, Thomas and Davis",2fb843ce-51c,9cfc2afd,Medicaid
+8607abf7,15150e3d,Forbes Inc,9ee81e20-5b9,2f817eef,Medicaid
+862a4926,2bc86c6d,"Wilson, Thomas and Davis",f8b2e987-5dd,51330597,PPO
+862ed17a,677c2b3b,"Wilson, Thomas and Davis",af840b31-878,a2201510,Medicaid
+86cbaae6,ec27d906,"Burnett, Arroyo and Abbott",0f25f06b-305,f28460d1,HMO
+87bfe45d,668713b9,"Ross, Martinez and Johnson",e0e67044-f41,1fdbcd98,Medicare
+87c6b105,8ef3a7ad,"Ross, Martinez and Johnson",2e963d14-933,aeafb086,PPO
+87d65f9f,0cf92baa,"Burnett, Arroyo and Abbott",edf1380a-bdf,57838656,Medicare
+882380da,0bceb0e7,"Burnett, Arroyo and Abbott",c632bbe2-af8,8018b2e0,Medicaid
+8849095b,602e10b2,"Burnett, Arroyo and Abbott",b508d9b5-091,6de7c5e4,PPO
+890a6111,1b1b6bd0,Forbes Inc,245cf292-1b2,45b824aa,Medicare
+89ebbb7f,6941319b,"Wilson, Thomas and Davis",eb02ab68-735,7fac28c9,HMO
+8a005ed6,11d9e1b7,"Wilson, Thomas and Davis",4f169c67-773,b21e9a04,HMO
+8a20d9bf,12ee52d2,"Wilson, Thomas and Davis",03da3f26-a67,58aae16c,HMO
+8a34b95d,547b3d22,"Wilson, Thomas and Davis",6646c424-97b,b13f38c9,HMO
+8a53ae9f,9297f6e7,Roberts-Thomas,234a2763-22d,e3cbf009,Medicare
+8bba3348,eb8b565a,Forbes Inc,a8a0d20f-1a8,a879456c,Medicare
+8bcef463,ba3d200d,"Wilson, Thomas and Davis",73018d35-6e0,2f7464ab,Medicaid
+8bd3e266,638eeae8,Forbes Inc,674d434f-517,dfe8aab2,Medicaid
+8bdaa729,df7910dd,Roberts-Thomas,59df9d48-54e,50a6f0ec,PPO
+8cdcf505,79e1daa7,Forbes Inc,ecdbd3c1-8f1,7193e323,Medicare
+8ce2dbb7,e7a1ac17,Roberts-Thomas,34a12588-4fe,f2ff9e77,Medicare
+8d0d5e9a,47e59894,Roberts-Thomas,9931762f-b91,04796d48,Medicare
+8db0a671,ac2a2315,Forbes Inc,3af7cc5a-999,d5c2cd75,PPO
+8fb7d284,e4b20037,"Ross, Martinez and Johnson",49d8eb46-47a,49f773f8,PPO
+9050931d,93df837e,"Burnett, Arroyo and Abbott",ab725581-e19,d986f33f,Medicaid
+90c25274,d01a38d2,Forbes Inc,c94f815d-792,0459d5de,Medicare
+911adb20,828187d2,"Burnett, Arroyo and Abbott",f53b0b64-7eb,ef572199,PPO
+91a41883,aca333c0,"Ross, Martinez and Johnson",1c6d4319-8b3,5f20533d,Medicare
+91ec1d2c,930c947b,"Wilson, Thomas and Davis",3ae171d3-95b,d63c3392,Medicaid
+9244f261,2db4a9d6,"Burnett, Arroyo and Abbott",16da8ba8-bf0,c74c2e5c,Medicare
+92573fb1,cc959bfb,Roberts-Thomas,e20da1a4-476,3127b509,Medicaid
+92ee2e2d,389a56b6,"Wilson, Thomas and Davis",f0a77496-63f,4b19f47c,Medicare
+936c0f31,d53c9a03,"Burnett, Arroyo and Abbott",a3ada97f-3d7,431ca772,HMO
+94058ee8,7aa55bb7,"Wilson, Thomas and Davis",6d5a7122-20c,4cd19d59,Medicaid
+94479d84,e9b8316f,"Wilson, Thomas and Davis",93040d61-6ce,663b6cc3,Medicare
+946bb8ea,a2bbd6a1,"Wilson, Thomas and Davis",45861486-847,59ad270c,PPO
+949c13fb,a1550516,Forbes Inc,62aab3d7-9f4,8004b90f,HMO
+94d80db7,4b1a3ddd,"Burnett, Arroyo and Abbott",1e42a91a-04f,5a4b9a42,Medicaid
+94da55ae,335cd4f9,"Ross, Martinez and Johnson",4e82bc11-00b,32ef5126,Medicaid
+9525ff8c,fe11b269,"Burnett, Arroyo and Abbott",a192991d-2a5,080b955a,PPO
+9548acc1,040bf6c3,"Burnett, Arroyo and Abbott",594d56de-c9d,56166e7a,HMO
+9598b970,e926e0fe,"Ross, Martinez and Johnson",93dfa436-957,0bd9f426,HMO
+95b11157,b1cc86dd,"Burnett, Arroyo and Abbott",0d80f7d4-fb9,31b41e1e,Medicaid
+95f0b694,0fd57312,"Wilson, Thomas and Davis",1ecbccce-716,9f1b2287,Medicaid
+9675c45b,37c88d3f,"Burnett, Arroyo and Abbott",d78cdf05-d72,46f65296,HMO
+968055d2,0b0bcfb9,Forbes Inc,0949d865-cbc,b6f45de1,HMO
+9709d5c4,dedef746,Roberts-Thomas,4c671e7e-770,1bd1fa94,Medicare
+9839e120,99e6778b,"Ross, Martinez and Johnson",ae6615d2-38c,14b8ee1b,HMO
+98937a71,df3b050e,Roberts-Thomas,93f8e3e6-3b6,d79e6670,Medicaid
+98b40b35,fa824f88,"Burnett, Arroyo and Abbott",166d87ad-ade,78fcbd07,Medicare
+993bb3ed,d59f07fb,"Wilson, Thomas and Davis",9382b997-d4c,0228615f,Medicaid
+99e97011,87eff585,"Ross, Martinez and Johnson",1e357a15-cd6,1b93d4ff,HMO
+9ca4eae2,8e4994cb,"Wilson, Thomas and Davis",aab5acfd-479,65cc489a,PPO
+9cbd2bab,4b7a4fdf,"Wilson, Thomas and Davis",1447a5b5-326,b7eff259,Medicare
+9d0b1697,2890ef31,Roberts-Thomas,38e67fc0-a02,db406b99,Medicaid
+9d4bc1cd,d018afb3,"Burnett, Arroyo and Abbott",a1d6e390-c1c,2d9b47f9,Medicaid
+9da2f02d,47648383,"Wilson, Thomas and Davis",ce346a3a-570,898fb5ee,HMO
+9df30d17,ae752330,Forbes Inc,ce8ecec1-283,d0eb8e9f,Medicaid
+9e51fdf0,295ce9bf,Forbes Inc,fcb2b7d5-73d,81ba4d3c,HMO
+a09ffa31,99056227,Forbes Inc,b8bbdf89-f23,7dc3fce3,Medicare
+a0b6f21f,02d77f26,"Wilson, Thomas and Davis",4122dda5-a9e,6383c858,Medicare
+a0d13767,3f5dc884,Forbes Inc,5a82ffbb-7b1,b76d94ae,HMO
+a13a8fdb,c8b71d99,"Wilson, Thomas and Davis",6854a120-4c9,598ab03f,Medicaid
+a1408031,c29c2a7d,Roberts-Thomas,b174d2f5-653,ee30dc70,Medicaid
+a144a765,e33f6c29,"Burnett, Arroyo and Abbott",c18a13dc-1b0,6be667c7,Medicaid
+a1b00d75,ea1a4ad3,Roberts-Thomas,ef82bc94-0c9,4502212a,HMO
+a1ba83f2,f55beed5,"Wilson, Thomas and Davis",b2ae42f1-e04,98531098,PPO
+a2303d5b,6206b6fb,Roberts-Thomas,b26e775c-576,d77cf71f,Medicaid
+a23d4422,bebf9a3d,Forbes Inc,4c016870-49b,44957abc,Medicaid
+a295dc21,87a57e57,"Ross, Martinez and Johnson",f0cf1475-402,e076f501,HMO
+a30c7cc1,52d955f4,Forbes Inc,6211e4f2-4cb,5d59e549,Medicaid
+a3863c85,b00a514f,Roberts-Thomas,607d5385-01c,6eeb1fe2,Medicare
+a4d2330c,4fd1aab0,"Wilson, Thomas and Davis",a233f206-af4,d2ba204e,Medicare
+a5b533ee,80fca836,Roberts-Thomas,1ff2c3c9-bb7,e9a2527a,Medicaid
+a62408da,44a60efd,"Burnett, Arroyo and Abbott",5f8f8e59-9b5,cc2750d5,HMO
+a641d06e,859ceab9,"Ross, Martinez and Johnson",f4165648-e3e,0a72e26c,Medicare
+a6ec63a3,599a4955,"Ross, Martinez and Johnson",e5535fc9-3d8,a50e71a6,Medicare
+a70e7034,16b0424a,Forbes Inc,90a851ac-ff7,806b0a81,Medicaid
+a7a25cc4,ada4444d,"Burnett, Arroyo and Abbott",85debe6f-eb0,6911e64e,HMO
+a7e8f4b5,9b9ee812,Roberts-Thomas,4add5ae6-144,3a4a9c79,PPO
+a90a9e58,aac3d598,Roberts-Thomas,89e4efb2-1f7,bcd23b72,HMO
+a911e482,6da30689,"Wilson, Thomas and Davis",5ed28157-a7a,92952c29,PPO
+a915c2be,2512a253,"Wilson, Thomas and Davis",49b2a70e-67b,b24ed8d3,Medicaid
+a92a3a11,aff6ff13,"Ross, Martinez and Johnson",4bc08fb1-fda,04c9dcc1,Medicaid
+a99e99f0,428296f9,"Wilson, Thomas and Davis",6ea7213e-7fe,fd3af9d8,HMO
+a9d9a29d,41c6bc68,"Wilson, Thomas and Davis",f4e7219f-f54,00b9534e,HMO
+a9fea0b2,c8afd9f3,Forbes Inc,f5a5aa9c-137,0008692d,PPO
+aa424d96,d5fe5897,Roberts-Thomas,797d833d-50d,fa9073cd,Medicaid
+aad8c08b,92a8c1c3,Forbes Inc,d7902832-acd,6e85fe2c,HMO
+aafd00bc,c1aa2f98,"Burnett, Arroyo and Abbott",a4f588d9-b18,7ccbd53d,HMO
+ab32c3bb,c621c493,"Ross, Martinez and Johnson",d18021c1-464,d82bc173,Medicaid
+aba47bb8,a5f07030,"Burnett, Arroyo and Abbott",75f9c9f4-bca,1d6da30d,HMO
+abc5efd1,b9916384,"Wilson, Thomas and Davis",17c3760f-f58,17763650,HMO
+ad9aed32,d86d4eea,"Ross, Martinez and Johnson",7b7d56ca-ca7,a4840cde,Medicaid
+adf14288,45028eb4,Roberts-Thomas,f2b46e0b-178,ec517faf,PPO
+ae93d093,41be5618,"Wilson, Thomas and Davis",d17a3593-af5,63df0c71,HMO
+ae971c1f,e26213dd,"Ross, Martinez and Johnson",caf89b47-d76,dda32ea8,PPO
+af359090,a10ed355,Roberts-Thomas,74be0edd-95a,babde794,Medicare
+afb2657b,21c1306e,"Burnett, Arroyo and Abbott",684d3ad6-1ba,75fe345e,Medicare
+b05c76a4,bd774b0a,Roberts-Thomas,7d49f274-e48,74d1d0a3,HMO
+b05fe297,5273dfeb,"Wilson, Thomas and Davis",c3a7139d-eb6,7a8bae37,PPO
+b10849a1,e2b2f3fc,"Wilson, Thomas and Davis",8202c678-1bb,372612db,HMO
+b141cef6,4b5c0be2,Forbes Inc,94c974ed-3b5,d9467564,HMO
+b1c5b740,26270521,"Wilson, Thomas and Davis",8b70c51a-016,b427cb73,PPO
+b1e627cb,fdadef7f,"Burnett, Arroyo and Abbott",3ba3fda1-0d3,54d5ba33,PPO
+b2031cb0,7a29f970,"Burnett, Arroyo and Abbott",40013218-acc,518e421b,HMO
+b252d812,8a1c160c,"Wilson, Thomas and Davis",0cead002-b82,1aafd1ce,Medicare
+b351ed1c,91c0ea9c,"Burnett, Arroyo and Abbott",a3a53f4c-004,1e5fe614,PPO
+b57fad74,609d62f9,Forbes Inc,a403a617-d70,93373d61,PPO
+b6593c23,d84c9177,"Burnett, Arroyo and Abbott",881ba377-85d,873cc52f,PPO
+b713a6c0,582544c6,"Burnett, Arroyo and Abbott",47851943-bd5,251ac80f,PPO
+b7837491,78d9bdaa,Roberts-Thomas,835f0d20-2db,8caf0b80,Medicare
+b7e2694e,e5b07ace,"Burnett, Arroyo and Abbott",6af837fe-c67,2eeeb3e9,PPO
+b800fce2,de4a47ee,"Wilson, Thomas and Davis",3a787926-eec,031b639d,Medicaid
+b85675c8,b5a07683,"Ross, Martinez and Johnson",3c30dbfa-05b,dd613109,Medicare
+b8fd4727,3962bf61,Roberts-Thomas,c67a7e46-f7d,c7586504,Medicaid
+b907ad05,95b14139,"Wilson, Thomas and Davis",fd4b3d4f-02b,34c57a35,HMO
+ba1e89a9,d7adce67,Forbes Inc,581a23f6-015,c8de4865,Medicaid
+ba3bc07d,66986a20,"Ross, Martinez and Johnson",1fe737d9-001,a94033bf,Medicaid
+ba4fd181,17a76328,"Burnett, Arroyo and Abbott",a5524edf-a94,d8a3cb40,Medicaid
+bb94198f,9dfef6f0,"Wilson, Thomas and Davis",1fecd833-5e1,870619d4,Medicaid
+bc10fb60,24ab048c,"Ross, Martinez and Johnson",ea681b60-547,f60c59ba,Medicare
+bcacfa03,b1440a15,"Burnett, Arroyo and Abbott",05a9cc22-211,c02a324f,HMO
+bcfa53b2,debb65bd,"Wilson, Thomas and Davis",817701a4-cea,b5cfbf47,PPO
+bd2b8f44,7180ff0e,"Burnett, Arroyo and Abbott",046cc726-f8a,d6102795,HMO
+bda10c81,256cf006,"Wilson, Thomas and Davis",73a3ccf1-e72,5e9e105b,Medicare
+bda62129,11c44c1a,Roberts-Thomas,060bb86e-57f,6fa6d774,Medicaid
+be46de69,1b240ee6,"Wilson, Thomas and Davis",02abb088-471,302fea71,PPO
+be75b628,53b4d3a3,"Burnett, Arroyo and Abbott",e6eb703a-cf3,8d0d8ed8,HMO
+befedc84,5ce3b20b,"Ross, Martinez and Johnson",405ef3d8-7b9,1e1ce973,PPO
+bf1bc836,d52c38df,"Burnett, Arroyo and Abbott",89bdb288-e84,7b63593c,PPO
+bf42e1d8,7ce6899b,Forbes Inc,39c8933b-89d,8a097e63,HMO
+bf5b2f51,2ff254f9,"Burnett, Arroyo and Abbott",6ae42635-0d2,07f6dc50,PPO
+bfcc141b,16c0e2f6,Forbes Inc,692abbea-940,add72aba,HMO
+c04c5500,490a7371,Roberts-Thomas,089fbbed-9fa,5d81c1e2,HMO
+c13a281b,38b65211,"Ross, Martinez and Johnson",67787202-2d8,1819ca24,Medicaid
+c1f4465c,789ae0ea,Roberts-Thomas,a4659395-afc,ccddf347,Medicare
+c2e312ef,2c9e49b9,"Ross, Martinez and Johnson",7b717359-0cc,3631f356,Medicaid
+c389dc9f,83fe43cf,"Ross, Martinez and Johnson",2baa12f6-d88,89d98ebc,PPO
+c3f071d0,9edb45e9,Forbes Inc,3d1e2433-751,d4fcdd38,Medicare
+c40bf19b,501ff0fc,"Wilson, Thomas and Davis",cd535f83-421,3be130a9,Medicaid
+c4a1e9dc,054043eb,Forbes Inc,a1af4871-160,1f264186,HMO
+c50140fd,6214200f,Forbes Inc,b16da8fb-424,31c51c30,Medicare
+c51118a4,a2c00ef6,Roberts-Thomas,e71e773c-eaa,83ee5010,PPO
+c5c5d549,cd0816d4,"Wilson, Thomas and Davis",0f1e5d0e-1fb,7dfb5b51,HMO
+c5d26c01,7df619ec,"Ross, Martinez and Johnson",d5b90f52-497,77180ffd,Medicare
+c6ce25b5,37627c7a,"Wilson, Thomas and Davis",f1d99ec8-705,8ae0c415,HMO
+c713555a,9da181fc,Forbes Inc,6135e113-894,4a550194,Medicaid
+c7885b9f,bba95aa4,"Ross, Martinez and Johnson",f8a088fc-a91,f1e46974,Medicaid
+c9abcee5,ee18bac3,Roberts-Thomas,917df1b2-333,eabe3a46,Medicaid
+ca3b6e91,21f07be9,"Ross, Martinez and Johnson",15b41761-e8e,837aec87,Medicaid
+cadbe2f2,ad63167c,Roberts-Thomas,e7a5cec1-697,2b6337b7,HMO
+cb474921,e9ad0ba2,"Ross, Martinez and Johnson",a0e20b55-d6c,2a85dac0,HMO
+cb9e25cf,46343a6e,Roberts-Thomas,127fd9c7-440,ea4975a4,PPO
+cbf9bd82,996f6ffe,Roberts-Thomas,bb6497f4-348,885805f5,HMO
+cc5432a1,69ad3679,"Ross, Martinez and Johnson",f934360a-525,1834c4b5,HMO
+cc6f4b80,c225bd4a,Forbes Inc,9d33d30d-deb,27ffcb8a,PPO
+ccb79aca,4549d409,"Wilson, Thomas and Davis",a8006934-24e,dae21cf5,Medicare
+cd3f7a1e,1760b095,Forbes Inc,c866a336-26b,10571f67,Medicare
+cd6605d4,106e0a51,"Ross, Martinez and Johnson",ec8e499f-318,76480f7d,Medicare
+cd8e829b,547926f6,"Burnett, Arroyo and Abbott",90d9a678-9d6,0bc4c8b0,HMO
+cdc75df8,8ec1465a,"Wilson, Thomas and Davis",63879c30-054,b0293ab1,Medicaid
+ce4cf070,06ba2a3b,"Wilson, Thomas and Davis",75114294-0fd,9aba5d11,HMO
+cec30cb3,4127ba09,"Wilson, Thomas and Davis",6352b5c2-051,75575f97,Medicaid
+cee4cd6c,c5203979,"Burnett, Arroyo and Abbott",f8f1a654-ffe,63b9d15d,PPO
+cef4569c,8b8b6ede,"Ross, Martinez and Johnson",d5ac5340-a8e,9ee7ef9c,HMO
+d14805ff,9a5cce9e,"Wilson, Thomas and Davis",e3f2bae9-1b5,5b81d8e1,PPO
+d1eb814c,c89c2c1d,Roberts-Thomas,501379b3-590,878ed163,PPO
+d21ebb32,0a470279,"Burnett, Arroyo and Abbott",7dcdaae4-670,a3122ed5,Medicaid
+d2742af0,256aeda8,Forbes Inc,cdd7d940-613,0ae85ee7,PPO
+d3bab017,7f97e169,Roberts-Thomas,c1694bbf-9f2,8063b78b,Medicare
+d3ff8257,38ea9144,"Ross, Martinez and Johnson",7626aa48-552,62e273a9,Medicare
+d525255a,14ed9e95,"Ross, Martinez and Johnson",ab994bbe-7c4,b2d94348,PPO
+d62a4fff,444d1cc0,Forbes Inc,7bb4de11-391,eb83763e,PPO
+d821e626,df76329f,"Wilson, Thomas and Davis",27963bbe-d8a,7a102929,Medicaid
+d8a9f13e,b2f567f0,"Burnett, Arroyo and Abbott",4163dd47-427,690da81b,HMO
+d8bb9287,d075bf12,Forbes Inc,124c5d0a-372,4d7eac24,HMO
+d93ce058,59d7fb9a,"Burnett, Arroyo and Abbott",13f8dea2-043,06640b0d,PPO
+d94cc310,dd9d38b8,Roberts-Thomas,e8fbc737-a76,851a3da3,HMO
+dad359fa,b290bf08,"Burnett, Arroyo and Abbott",ed077d42-966,29b0ba01,PPO
+db009ba5,89ca682c,Roberts-Thomas,3f41af34-214,218a3e3f,Medicare
+db134505,a1649d0a,"Ross, Martinez and Johnson",e7a819e1-d34,b3952e2c,Medicaid
+dbf66d93,2b6f7516,Forbes Inc,c7207067-4e2,f575b6bf,PPO
+dc40e870,1cf6f162,Forbes Inc,df8c118d-1f4,63428eda,HMO
+dc699f91,0709bbbe,"Wilson, Thomas and Davis",81f5b1a7-d13,00e54e95,Medicare
+dcf428f0,5ee086bb,"Wilson, Thomas and Davis",fd1d0c56-c13,45250681,PPO
+de16ff30,2cbd57fa,Forbes Inc,b2fd65f9-966,ad8942a7,Medicaid
+de31b6f1,e5de426e,Forbes Inc,cbb1fd91-7c5,552ebcd4,Medicaid
+de41f376,df4c0507,"Burnett, Arroyo and Abbott",b6b9759a-c6d,40456437,Medicare
+de6c36ee,4b3cf231,Roberts-Thomas,2cd08d8c-173,9cf16e3f,PPO
+de9336eb,62bb9e70,Forbes Inc,502c9e07-7c8,8abe375e,HMO
+df7f14f0,fd1fa0a6,Forbes Inc,efb85676-003,919ab73e,PPO
+dfbade05,89c60bff,"Ross, Martinez and Johnson",f6c28ea2-97c,69f9c21b,HMO
+dff91091,0852bf8c,Roberts-Thomas,7e464b77-eb7,1ad98d28,Medicaid
+e03ea157,fb777f2a,Forbes Inc,eb0d2cc5-b58,f0410768,HMO
+e0e4e7e4,e663d46f,Forbes Inc,342a860f-7ed,e3a0fe26,Medicare
+e1488b0f,f08912b6,"Wilson, Thomas and Davis",5cd7979b-719,65765271,HMO
+e18c3ddb,f1b68377,"Burnett, Arroyo and Abbott",aad13a12-d2f,b0e00ba7,Medicare
+e24663a5,c0335e36,Forbes Inc,825c8afd-b5b,de944ea8,Medicare
+e256b7ae,ef838c65,Forbes Inc,e58f1a62-910,5b87fa63,Medicare
+e2af1673,ab56fffb,"Ross, Martinez and Johnson",b911e83e-fa5,64086daf,Medicaid
+e353ab26,03660078,Forbes Inc,f3230f75-1db,715708f3,HMO
+e3993a43,b6ac45f3,Roberts-Thomas,ab41089a-e19,b26816f3,Medicaid
+e3cd8335,bb105506,"Wilson, Thomas and Davis",2ce42af7-c52,32fd8403,HMO
+e3e2a8a7,54bf6ef3,Roberts-Thomas,e7942605-429,e9936d8f,HMO
+e41ed199,1cce91fc,Forbes Inc,c3e1ea47-b70,7fce287a,HMO
+e445e615,b6231850,Forbes Inc,9d4d757e-8a7,62379023,Medicaid
+e512265d,251e863d,"Ross, Martinez and Johnson",522cdda8-d7b,96b5071c,HMO
+e5444076,f36059ae,"Wilson, Thomas and Davis",39331290-715,9be459ff,HMO
+e544c92c,e667562c,"Ross, Martinez and Johnson",e71423e6-205,2ec5d702,HMO
+e59c657b,809ca3f0,"Ross, Martinez and Johnson",bf85e89b-280,b3334c92,Medicare
+e60d832e,9954af85,"Ross, Martinez and Johnson",1fdd7c63-777,b15e51a2,PPO
+e72006be,6f560f21,"Ross, Martinez and Johnson",a9ffa585-d11,6c167fe3,Medicare
+e74c134b,ff04a634,Forbes Inc,4dc56aff-31d,d755ce6f,PPO
+e7a75929,46b584d0,"Burnett, Arroyo and Abbott",23031c7e-033,136fcfa2,PPO
+e858cc49,f6eb66d8,Forbes Inc,2d961261-911,bb5e0666,HMO
+e8cb35e5,7424c019,"Wilson, Thomas and Davis",27a28312-36c,37d612ca,HMO
+e991b9c9,a4ebbb09,Roberts-Thomas,88a5b0b5-db7,d90552e0,PPO
+ea22e8b5,fdddbcbe,Forbes Inc,0eee26ee-91e,42870dfc,PPO
+eb46e2db,c8632bfc,Forbes Inc,b77f6f97-781,e34b35e2,PPO
+ecdadd13,d1d29890,Roberts-Thomas,95e1edb8-cb2,159bc4d7,Medicare
+ef1d45dd,d2c0e707,Forbes Inc,8c44d6e9-624,16237166,PPO
+ef86d296,77e81526,"Wilson, Thomas and Davis",efdd3da6-4cb,4a601b7c,Medicaid
+efc09e34,db61a913,Forbes Inc,0dc9a39a-c0a,a99e6453,PPO
+f0611731,929e2866,Roberts-Thomas,5433a70c-dc4,e93296c7,Medicaid
+f082c7d9,667d888e,"Wilson, Thomas and Davis",d63d6be3-ebe,ca8c377f,Medicare
+f0b78fc6,48c32a3d,Forbes Inc,ccb29a84-044,a8f370c1,Medicaid
+f1d25c01,36cb8e87,"Wilson, Thomas and Davis",060aa699-07c,28d795c9,HMO
+f2cc7eac,26592877,"Wilson, Thomas and Davis",6c86978c-57c,b584199c,HMO
+f31d46e2,0c5c9466,"Ross, Martinez and Johnson",dd39b86b-0f0,121ef6d7,PPO
+f3f543ef,338d5cec,Roberts-Thomas,4e412863-fb0,80e755e2,HMO
+f4577429,7983f88e,"Burnett, Arroyo and Abbott",73367154-5ae,aeeec7b5,Medicaid
+f5380483,da344bc4,Roberts-Thomas,7a34a883-71e,b9958b2c,PPO
+f667f1ed,99e41f03,Roberts-Thomas,dc90955a-555,2f63dd39,PPO
+f7451a3f,eeef59a6,"Burnett, Arroyo and Abbott",47eaf5ed-c85,85798542,Medicaid
+f74aebc2,a5073d9a,"Burnett, Arroyo and Abbott",a672fe71-6e5,d9b904a8,Medicare
+f7a5087c,ff4ebff1,"Ross, Martinez and Johnson",9343bf64-0c2,6d0216ee,Medicaid
+f7a64623,f03e34f6,"Ross, Martinez and Johnson",91db1b39-a86,905e4711,HMO
+f7d594d3,a5b8c867,"Burnett, Arroyo and Abbott",18103feb-29e,4449d059,PPO
+f7f8cc4e,31a836c6,"Burnett, Arroyo and Abbott",4bff1177-352,1b47b126,HMO
+f9117807,f431f27e,"Burnett, Arroyo and Abbott",c1a843d3-994,592e2cf6,HMO
+f922595f,af953b9f,"Ross, Martinez and Johnson",5c8852f7-cf5,1d7f04b7,Medicaid
+f92cc216,ac64149c,"Wilson, Thomas and Davis",b72d7bf2-08b,ebd19d67,PPO
+f93a813b,401db236,Forbes Inc,3843f1f1-3f1,db82239b,PPO
+f97d610f,bb668556,"Burnett, Arroyo and Abbott",416543e7-6bd,8b58a989,Medicaid
+f98b6bb4,2da213a6,"Wilson, Thomas and Davis",7677e3df-a02,aea2bc89,Medicare
+f9c0af71,9616c68f,"Wilson, Thomas and Davis",9f951222-8d9,48cd4e96,HMO
+f9f12b73,54aed112,Forbes Inc,85101e4c-832,84e8aa35,Medicare
+fa06d422,6e03c0d1,"Burnett, Arroyo and Abbott",7f1b3bb5-652,f8415b6f,Medicaid
+fa72592a,c9e87f21,"Ross, Martinez and Johnson",cb59819f-d8a,f98ca8ed,Medicare
+fae55597,de6499bb,"Burnett, Arroyo and Abbott",51dc84dc-049,eabe3e30,HMO
+fb60ae4a,b8b7d2f4,"Wilson, Thomas and Davis",425dd6e1-a2b,b5fd65bc,PPO
+fbb53c5b,46395852,"Ross, Martinez and Johnson",9e0b5150-8f7,cf77288d,Medicare
+fbdad290,bff2c826,"Burnett, Arroyo and Abbott",08a700c1-8ac,6cefddff,Medicare
+fbf751db,5f39e628,"Burnett, Arroyo and Abbott",98fb49b2-8b0,7effa3f9,PPO
+fc5c179f,3cfa560c,"Burnett, Arroyo and Abbott",46a4912d-742,65da9a06,Medicare
+fdfd8b5c,8ddaacff,"Burnett, Arroyo and Abbott",aed95b88-cbe,7e063eaf,PPO
+fe5559aa,606ab0c7,"Wilson, Thomas and Davis",9aae08d9-29e,4b2903db,PPO
+ff206636,751f7c17,"Burnett, Arroyo and Abbott",23eee3fa-5f9,4617ca24,HMO
+ff267a70,0ee029ef,Forbes Inc,30431281-5b1,5dfc1a09,HMO
+ff6c8975,74f84fc7,Roberts-Thomas,f1ef2b25-6b5,9c8cea0c,Medicaid
+ffcc695b,2cfd4d4d,Roberts-Thomas,6e5795f4-00b,05d4dba5,HMO
+fff974b2,7825c562,"Burnett, Arroyo and Abbott",694a041f-2f7,b7c4c344,HMO

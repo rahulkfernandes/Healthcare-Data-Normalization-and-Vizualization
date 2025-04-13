@@ -1,0 +1,183 @@
+provider_id,doctor_name,doctor_title,doctor_department
+ADO000015,Olivia Morgan,DO,Architect
+ADO000063,Anthony Petersen,DO,Architect
+ADO000072,Tina Smith,DO,Architect
+ADO000093,Nancy Gonzalez,DO,Architect
+ADO000110,Angela Tanner,DO,Architect
+ADO000145,John Phillips,DO,Architect
+ADO000147,Robert Johnson,DO,Architect
+ADO000175,Michael Aguilar,DO,Architect
+AMD000029,Anthony Petersen,MD,Architect
+AMD000031,Robert Johnson,MD,Architect
+AMD000067,John Phillips,MD,Architect
+AMD000103,Olivia Morgan,MD,Architect
+AMD000133,Tina Smith,MD,Architect
+AMD000162,Nancy Gonzalez,MD,Architect
+AMD000174,Michael Aguilar,MD,Architect
+ANP000065,Angela Tanner,NP,Architect
+ANP000069,Michael Aguilar,NP,Architect
+ANP000071,Tina Smith,NP,Architect
+ANP000118,Anthony Petersen,NP,Architect
+ANP000127,Olivia Morgan,NP,Architect
+ANP000132,Robert Johnson,NP,Architect
+ANP000138,Nancy Gonzalez,NP,Architect
+ANP000153,John Phillips,NP,Architect
+APA000032,John Phillips,PA,Architect
+APA000036,Tina Smith,PA,Architect
+APA000048,Anthony Petersen,PA,Architect
+APA000070,Robert Johnson,PA,Architect
+APA000095,Angela Tanner,PA,Architect
+APA000113,Olivia Morgan,PA,Architect
+APA000168,Michael Aguilar,PA,Architect
+GDO000013,Olivia Morgan,DO,Commercial art gallery manager
+GDO000068,Anthony Petersen,DO,Commercial art gallery manager
+GDO000088,John Phillips,DO,Commercial art gallery manager
+GDO000108,Robert Johnson,DO,Commercial art gallery manager
+GDO000119,Nancy Gonzalez,DO,Commercial art gallery manager
+GDO000157,Michael Aguilar,DO,Commercial art gallery manager
+GDO000161,Tina Smith,DO,Commercial art gallery manager
+GDO000170,Angela Tanner,DO,Commercial art gallery manager
+GMD000000,Tina Smith,MD,Commercial art gallery manager
+GMD000003,Anthony Petersen,MD,Commercial art gallery manager
+GMD000026,Olivia Morgan,MD,Commercial art gallery manager
+GMD000086,Nancy Gonzalez,MD,Commercial art gallery manager
+GMD000124,Robert Johnson,MD,Commercial art gallery manager
+GMD000125,John Phillips,MD,Commercial art gallery manager
+GMD000142,Angela Tanner,MD,Commercial art gallery manager
+GNP000004,Michael Aguilar,NP,Commercial art gallery manager
+GNP000014,Angela Tanner,NP,Commercial art gallery manager
+GNP000020,Olivia Morgan,NP,Commercial art gallery manager
+GNP000047,Nancy Gonzalez,NP,Commercial art gallery manager
+GNP000105,Tina Smith,NP,Commercial art gallery manager
+GNP000137,John Phillips,NP,Commercial art gallery manager
+GNP000141,Anthony Petersen,NP,Commercial art gallery manager
+GNP000150,Robert Johnson,NP,Commercial art gallery manager
+GPA000023,Olivia Morgan,PA,Commercial art gallery manager
+GPA000075,Angela Tanner,PA,Commercial art gallery manager
+GPA000076,John Phillips,PA,Commercial art gallery manager
+GPA000084,Tina Smith,PA,Commercial art gallery manager
+GPA000131,Michael Aguilar,PA,Commercial art gallery manager
+GPA000152,Anthony Petersen,PA,Commercial art gallery manager
+GPA000176,Robert Johnson,PA,Commercial art gallery manager
+HSMDO000042,John Phillips,DO,Health service manager
+HSMDO000053,Robert Johnson,DO,Health service manager
+HSMDO000066,Angela Tanner,DO,Health service manager
+HSMDO000082,Tina Smith,DO,Health service manager
+HSMDO000106,Michael Aguilar,DO,Health service manager
+HSMDO000112,Anthony Petersen,DO,Health service manager
+HSMDO000121,Olivia Morgan,DO,Health service manager
+HSMDO000154,Nancy Gonzalez,DO,Health service manager
+HSMMD000024,Michael Aguilar,MD,Health service manager
+HSMMD000038,Angela Tanner,MD,Health service manager
+HSMMD000045,John Phillips,MD,Health service manager
+HSMMD000059,Tina Smith,MD,Health service manager
+HSMMD000078,Robert Johnson,MD,Health service manager
+HSMMD000091,Olivia Morgan,MD,Health service manager
+HSMMD000148,Anthony Petersen,MD,Health service manager
+HSMMD000172,Nancy Gonzalez,MD,Health service manager
+HSMNP000012,Robert Johnson,NP,Health service manager
+HSMNP000030,Tina Smith,NP,Health service manager
+HSMNP000037,Olivia Morgan,NP,Health service manager
+HSMNP000040,Michael Aguilar,NP,Health service manager
+HSMNP000060,Anthony Petersen,NP,Health service manager
+HSMNP000061,Nancy Gonzalez,NP,Health service manager
+HSMNP000064,John Phillips,NP,Health service manager
+HSMNP000097,Angela Tanner,NP,Health service manager
+HSMPA000019,Tina Smith,PA,Health service manager
+HSMPA000052,Michael Aguilar,PA,Health service manager
+HSMPA000098,Olivia Morgan,PA,Health service manager
+HSMPA000117,Anthony Petersen,PA,Health service manager
+HSMPA000123,Robert Johnson,PA,Health service manager
+HSMPA000164,Angela Tanner,PA,Health service manager
+PADO000011,Anthony Petersen,DO,Personal assistant
+PADO000021,Michael Aguilar,DO,Personal assistant
+PADO000044,Robert Johnson,DO,Personal assistant
+PADO000080,Tina Smith,DO,Personal assistant
+PADO000085,Angela Tanner,DO,Personal assistant
+PADO000149,Olivia Morgan,DO,Personal assistant
+PADO000163,Nancy Gonzalez,DO,Personal assistant
+PADO000166,John Phillips,DO,Personal assistant
+PAMD000005,Michael Aguilar,MD,Personal assistant
+PAMD000007,Tina Smith,MD,Personal assistant
+PAMD000008,Angela Tanner,MD,Personal assistant
+PAMD000046,John Phillips,MD,Personal assistant
+PAMD000090,Nancy Gonzalez,MD,Personal assistant
+PAMD000092,Robert Johnson,MD,Personal assistant
+PAMD000099,Anthony Petersen,MD,Personal assistant
+PANP000077,Michael Aguilar,NP,Personal assistant
+PANP000107,Nancy Gonzalez,NP,Personal assistant
+PANP000114,John Phillips,NP,Personal assistant
+PANP000136,Anthony Petersen,NP,Personal assistant
+PANP000178,Robert Johnson,NP,Personal assistant
+PANP000179,Tina Smith,NP,Personal assistant
+PANP000180,Angela Tanner,NP,Personal assistant
+PANP000181,Olivia Morgan,NP,Personal assistant
+PAPA000025,Tina Smith,PA,Personal assistant
+PAPA000027,John Phillips,PA,Personal assistant
+PAPA000049,Anthony Petersen,PA,Personal assistant
+PAPA000083,Angela Tanner,PA,Personal assistant
+PAPA000120,Michael Aguilar,PA,Personal assistant
+PAPA000158,Nancy Gonzalez,PA,Personal assistant
+PAPA000169,Olivia Morgan,PA,Personal assistant
+PAPA000173,Robert Johnson,PA,Personal assistant
+PSDO000001,Nancy Gonzalez,DO,"Programmer, systems"
+PSDO000028,Anthony Petersen,DO,"Programmer, systems"
+PSDO000073,Tina Smith,DO,"Programmer, systems"
+PSDO000089,Michael Aguilar,DO,"Programmer, systems"
+PSDO000101,John Phillips,DO,"Programmer, systems"
+PSDO000126,Angela Tanner,DO,"Programmer, systems"
+PSDO000151,Robert Johnson,DO,"Programmer, systems"
+PSDO000156,Olivia Morgan,DO,"Programmer, systems"
+PSMD000009,John Phillips,MD,"Programmer, systems"
+PSMD000022,Olivia Morgan,MD,"Programmer, systems"
+PSMD000087,Robert Johnson,MD,"Programmer, systems"
+PSMD000102,Michael Aguilar,MD,"Programmer, systems"
+PSMD000135,Nancy Gonzalez,MD,"Programmer, systems"
+PSMD000140,Angela Tanner,MD,"Programmer, systems"
+PSMD000155,Tina Smith,MD,"Programmer, systems"
+PSNP000050,Olivia Morgan,NP,"Programmer, systems"
+PSNP000054,Angela Tanner,NP,"Programmer, systems"
+PSNP000058,Nancy Gonzalez,NP,"Programmer, systems"
+PSNP000079,Michael Aguilar,NP,"Programmer, systems"
+PSNP000094,Robert Johnson,NP,"Programmer, systems"
+PSNP000128,Tina Smith,NP,"Programmer, systems"
+PSNP000159,John Phillips,NP,"Programmer, systems"
+PSNP000165,Anthony Petersen,NP,"Programmer, systems"
+PSPA000034,Michael Aguilar,PA,"Programmer, systems"
+PSPA000111,Anthony Petersen,PA,"Programmer, systems"
+PSPA000115,Angela Tanner,PA,"Programmer, systems"
+PSPA000129,Tina Smith,PA,"Programmer, systems"
+PSPA000130,Nancy Gonzalez,PA,"Programmer, systems"
+PSPA000146,Olivia Morgan,PA,"Programmer, systems"
+RMDO000016,Tina Smith,DO,Retail manager
+RMDO000033,Michael Aguilar,DO,Retail manager
+RMDO000062,Anthony Petersen,DO,Retail manager
+RMDO000122,John Phillips,DO,Retail manager
+RMDO000134,Olivia Morgan,DO,Retail manager
+RMDO000139,Robert Johnson,DO,Retail manager
+RMDO000160,Angela Tanner,DO,Retail manager
+RMDO000167,Nancy Gonzalez,DO,Retail manager
+RMMD000017,Anthony Petersen,MD,Retail manager
+RMMD000039,Michael Aguilar,MD,Retail manager
+RMMD000051,Angela Tanner,MD,Retail manager
+RMMD000056,Robert Johnson,MD,Retail manager
+RMMD000081,Nancy Gonzalez,MD,Retail manager
+RMMD000104,John Phillips,MD,Retail manager
+RMMD000143,Tina Smith,MD,Retail manager
+RMMD000171,Olivia Morgan,MD,Retail manager
+RMNP000002,Angela Tanner,NP,Retail manager
+RMNP000006,Olivia Morgan,NP,Retail manager
+RMNP000041,Michael Aguilar,NP,Retail manager
+RMNP000043,John Phillips,NP,Retail manager
+RMNP000055,Nancy Gonzalez,NP,Retail manager
+RMNP000057,Anthony Petersen,NP,Retail manager
+RMNP000096,Robert Johnson,NP,Retail manager
+RMNP000144,Tina Smith,NP,Retail manager
+RMPA000010,Tina Smith,PA,Retail manager
+RMPA000018,Angela Tanner,PA,Retail manager
+RMPA000035,Robert Johnson,PA,Retail manager
+RMPA000074,Nancy Gonzalez,PA,Retail manager
+RMPA000100,John Phillips,PA,Retail manager
+RMPA000109,Michael Aguilar,PA,Retail manager
+RMPA000116,Olivia Morgan,PA,Retail manager
+RMPA000177,Anthony Petersen,PA,Retail manager

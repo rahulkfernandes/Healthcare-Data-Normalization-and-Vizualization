@@ -1,0 +1,488 @@
+location_id,clinic_name,room_number
+BWAW101,"Brown, Warren and Williams",101
+BWAW105,"Brown, Warren and Williams",105
+BWAW118,"Brown, Warren and Williams",118
+BWAW120,"Brown, Warren and Williams",120
+BWAW121,"Brown, Warren and Williams",121
+BWAW122,"Brown, Warren and Williams",122
+BWAW123,"Brown, Warren and Williams",123
+BWAW129,"Brown, Warren and Williams",129
+BWAW134,"Brown, Warren and Williams",134
+BWAW137,"Brown, Warren and Williams",137
+BWAW163,"Brown, Warren and Williams",163
+BWAW166,"Brown, Warren and Williams",166
+BWAW170,"Brown, Warren and Williams",170
+BWAW179,"Brown, Warren and Williams",179
+BWAW180,"Brown, Warren and Williams",180
+BWAW181,"Brown, Warren and Williams",181
+BWAW184,"Brown, Warren and Williams",184
+BWAW187,"Brown, Warren and Williams",187
+BWAW191,"Brown, Warren and Williams",191
+BWAW192,"Brown, Warren and Williams",192
+BWAW201,"Brown, Warren and Williams",201
+BWAW203,"Brown, Warren and Williams",203
+BWAW216,"Brown, Warren and Williams",216
+BWAW217,"Brown, Warren and Williams",217
+BWAW221,"Brown, Warren and Williams",221
+BWAW224,"Brown, Warren and Williams",224
+BWAW225,"Brown, Warren and Williams",225
+BWAW226,"Brown, Warren and Williams",226
+BWAW248,"Brown, Warren and Williams",248
+BWAW253,"Brown, Warren and Williams",253
+BWAW261,"Brown, Warren and Williams",261
+BWAW267,"Brown, Warren and Williams",267
+BWAW274,"Brown, Warren and Williams",274
+BWAW277,"Brown, Warren and Williams",277
+BWAW287,"Brown, Warren and Williams",287
+BWAW301,"Brown, Warren and Williams",301
+BWAW309,"Brown, Warren and Williams",309
+BWAW311,"Brown, Warren and Williams",311
+BWAW316,"Brown, Warren and Williams",316
+BWAW347,"Brown, Warren and Williams",347
+BWAW353,"Brown, Warren and Williams",353
+BWAW365,"Brown, Warren and Williams",365
+BWAW375,"Brown, Warren and Williams",375
+BWAW378,"Brown, Warren and Williams",378
+BWAW389,"Brown, Warren and Williams",389
+BWAW399,"Brown, Warren and Williams",399
+BWAW416,"Brown, Warren and Williams",416
+BWAW423,"Brown, Warren and Williams",423
+BWAW427,"Brown, Warren and Williams",427
+BWAW450,"Brown, Warren and Williams",450
+BWAW451,"Brown, Warren and Williams",451
+BWAW454,"Brown, Warren and Williams",454
+BWAW455,"Brown, Warren and Williams",455
+BWAW479,"Brown, Warren and Williams",479
+BWAW485,"Brown, Warren and Williams",485
+BWAW488,"Brown, Warren and Williams",488
+BWAW491,"Brown, Warren and Williams",491
+BWAW495,"Brown, Warren and Williams",495
+BWAW496,"Brown, Warren and Williams",496
+BWAW511,"Brown, Warren and Williams",511
+BWAW520,"Brown, Warren and Williams",520
+BWAW538,"Brown, Warren and Williams",538
+BWAW548,"Brown, Warren and Williams",548
+BWAW564,"Brown, Warren and Williams",564
+BWAW569,"Brown, Warren and Williams",569
+BWAW574,"Brown, Warren and Williams",574
+BWAW579,"Brown, Warren and Williams",579
+BWAW582,"Brown, Warren and Williams",582
+BWAW583,"Brown, Warren and Williams",583
+BWAW587,"Brown, Warren and Williams",587
+BWAW603,"Brown, Warren and Williams",603
+BWAW606,"Brown, Warren and Williams",606
+BWAW608,"Brown, Warren and Williams",608
+BWAW610,"Brown, Warren and Williams",610
+BWAW615,"Brown, Warren and Williams",615
+BWAW631,"Brown, Warren and Williams",631
+BWAW660,"Brown, Warren and Williams",660
+BWAW662,"Brown, Warren and Williams",662
+BWAW664,"Brown, Warren and Williams",664
+BWAW669,"Brown, Warren and Williams",669
+BWAW679,"Brown, Warren and Williams",679
+BWAW684,"Brown, Warren and Williams",684
+BWAW696,"Brown, Warren and Williams",696
+BWAW722,"Brown, Warren and Williams",722
+BWAW726,"Brown, Warren and Williams",726
+BWAW731,"Brown, Warren and Williams",731
+BWAW742,"Brown, Warren and Williams",742
+BWAW747,"Brown, Warren and Williams",747
+BWAW750,"Brown, Warren and Williams",750
+BWAW753,"Brown, Warren and Williams",753
+BWAW759,"Brown, Warren and Williams",759
+BWAW774,"Brown, Warren and Williams",774
+BWAW783,"Brown, Warren and Williams",783
+BWAW787,"Brown, Warren and Williams",787
+BWAW789,"Brown, Warren and Williams",789
+BWAW800,"Brown, Warren and Williams",800
+BWAW807,"Brown, Warren and Williams",807
+BWAW821,"Brown, Warren and Williams",821
+BWAW826,"Brown, Warren and Williams",826
+BWAW832,"Brown, Warren and Williams",832
+BWAW840,"Brown, Warren and Williams",840
+BWAW846,"Brown, Warren and Williams",846
+BWAW854,"Brown, Warren and Williams",854
+BWAW863,"Brown, Warren and Williams",863
+BWAW866,"Brown, Warren and Williams",866
+BWAW867,"Brown, Warren and Williams",867
+BWAW871,"Brown, Warren and Williams",871
+BWAW905,"Brown, Warren and Williams",905
+BWAW916,"Brown, Warren and Williams",916
+BWAW920,"Brown, Warren and Williams",920
+BWAW924,"Brown, Warren and Williams",924
+BWAW955,"Brown, Warren and Williams",955
+BWAW959,"Brown, Warren and Williams",959
+BWAW978,"Brown, Warren and Williams",978
+BWAW979,"Brown, Warren and Williams",979
+BWAW980,"Brown, Warren and Williams",980
+BWAW997,"Brown, Warren and Williams",997
+M104,Mitchell-Ferrell,104
+M108,Mitchell-Ferrell,108
+M110,Mitchell-Ferrell,110
+M113,Mitchell-Ferrell,113
+M115,Mitchell-Ferrell,115
+M117,Mitchell-Ferrell,117
+M120,Mitchell-Ferrell,120
+M122,Mitchell-Ferrell,122
+M123,Mitchell-Ferrell,123
+M135,Mitchell-Ferrell,135
+M139,Mitchell-Ferrell,139
+M149,Mitchell-Ferrell,149
+M155,Mitchell-Ferrell,155
+M156,Mitchell-Ferrell,156
+M160,Mitchell-Ferrell,160
+M162,Mitchell-Ferrell,162
+M184,Mitchell-Ferrell,184
+M194,Mitchell-Ferrell,194
+M202,Mitchell-Ferrell,202
+M203,Mitchell-Ferrell,203
+M220,Mitchell-Ferrell,220
+M242,Mitchell-Ferrell,242
+M247,Mitchell-Ferrell,247
+M248,Mitchell-Ferrell,248
+M252,Mitchell-Ferrell,252
+M258,Mitchell-Ferrell,258
+M259,Mitchell-Ferrell,259
+M266,Mitchell-Ferrell,266
+M273,Mitchell-Ferrell,273
+M284,Mitchell-Ferrell,284
+M289,Mitchell-Ferrell,289
+M291,Mitchell-Ferrell,291
+M294,Mitchell-Ferrell,294
+M304,Mitchell-Ferrell,304
+M309,Mitchell-Ferrell,309
+M348,Mitchell-Ferrell,348
+M352,Mitchell-Ferrell,352
+M360,Mitchell-Ferrell,360
+M369,Mitchell-Ferrell,369
+M377,Mitchell-Ferrell,377
+M385,Mitchell-Ferrell,385
+M386,Mitchell-Ferrell,386
+M389,Mitchell-Ferrell,389
+M391,Mitchell-Ferrell,391
+M394,Mitchell-Ferrell,394
+M400,Mitchell-Ferrell,400
+M401,Mitchell-Ferrell,401
+M415,Mitchell-Ferrell,415
+M421,Mitchell-Ferrell,421
+M428,Mitchell-Ferrell,428
+M431,Mitchell-Ferrell,431
+M432,Mitchell-Ferrell,432
+M443,Mitchell-Ferrell,443
+M444,Mitchell-Ferrell,444
+M454,Mitchell-Ferrell,454
+M467,Mitchell-Ferrell,467
+M478,Mitchell-Ferrell,478
+M482,Mitchell-Ferrell,482
+M486,Mitchell-Ferrell,486
+M488,Mitchell-Ferrell,488
+M494,Mitchell-Ferrell,494
+M495,Mitchell-Ferrell,495
+M502,Mitchell-Ferrell,502
+M517,Mitchell-Ferrell,517
+M519,Mitchell-Ferrell,519
+M521,Mitchell-Ferrell,521
+M525,Mitchell-Ferrell,525
+M532,Mitchell-Ferrell,532
+M533,Mitchell-Ferrell,533
+M539,Mitchell-Ferrell,539
+M540,Mitchell-Ferrell,540
+M549,Mitchell-Ferrell,549
+M554,Mitchell-Ferrell,554
+M555,Mitchell-Ferrell,555
+M559,Mitchell-Ferrell,559
+M574,Mitchell-Ferrell,574
+M599,Mitchell-Ferrell,599
+M603,Mitchell-Ferrell,603
+M605,Mitchell-Ferrell,605
+M613,Mitchell-Ferrell,613
+M618,Mitchell-Ferrell,618
+M620,Mitchell-Ferrell,620
+M632,Mitchell-Ferrell,632
+M638,Mitchell-Ferrell,638
+M641,Mitchell-Ferrell,641
+M642,Mitchell-Ferrell,642
+M646,Mitchell-Ferrell,646
+M657,Mitchell-Ferrell,657
+M658,Mitchell-Ferrell,658
+M674,Mitchell-Ferrell,674
+M680,Mitchell-Ferrell,680
+M681,Mitchell-Ferrell,681
+M689,Mitchell-Ferrell,689
+M698,Mitchell-Ferrell,698
+M704,Mitchell-Ferrell,704
+M713,Mitchell-Ferrell,713
+M715,Mitchell-Ferrell,715
+M716,Mitchell-Ferrell,716
+M733,Mitchell-Ferrell,733
+M738,Mitchell-Ferrell,738
+M739,Mitchell-Ferrell,739
+M745,Mitchell-Ferrell,745
+M748,Mitchell-Ferrell,748
+M762,Mitchell-Ferrell,762
+M769,Mitchell-Ferrell,769
+M771,Mitchell-Ferrell,771
+M774,Mitchell-Ferrell,774
+M783,Mitchell-Ferrell,783
+M790,Mitchell-Ferrell,790
+M801,Mitchell-Ferrell,801
+M806,Mitchell-Ferrell,806
+M813,Mitchell-Ferrell,813
+M819,Mitchell-Ferrell,819
+M823,Mitchell-Ferrell,823
+M824,Mitchell-Ferrell,824
+M827,Mitchell-Ferrell,827
+M843,Mitchell-Ferrell,843
+M849,Mitchell-Ferrell,849
+M853,Mitchell-Ferrell,853
+M859,Mitchell-Ferrell,859
+M890,Mitchell-Ferrell,890
+M895,Mitchell-Ferrell,895
+M898,Mitchell-Ferrell,898
+M899,Mitchell-Ferrell,899
+M917,Mitchell-Ferrell,917
+M931,Mitchell-Ferrell,931
+M959,Mitchell-Ferrell,959
+M963,Mitchell-Ferrell,963
+M967,Mitchell-Ferrell,967
+M970,Mitchell-Ferrell,970
+M973,Mitchell-Ferrell,973
+M975,Mitchell-Ferrell,975
+M982,Mitchell-Ferrell,982
+M990,Mitchell-Ferrell,990
+M997,Mitchell-Ferrell,997
+M999,Mitchell-Ferrell,999
+PNAB106,"Phillips, Nguyen and Beard",106
+PNAB123,"Phillips, Nguyen and Beard",123
+PNAB127,"Phillips, Nguyen and Beard",127
+PNAB132,"Phillips, Nguyen and Beard",132
+PNAB137,"Phillips, Nguyen and Beard",137
+PNAB149,"Phillips, Nguyen and Beard",149
+PNAB156,"Phillips, Nguyen and Beard",156
+PNAB158,"Phillips, Nguyen and Beard",158
+PNAB159,"Phillips, Nguyen and Beard",159
+PNAB164,"Phillips, Nguyen and Beard",164
+PNAB165,"Phillips, Nguyen and Beard",165
+PNAB166,"Phillips, Nguyen and Beard",166
+PNAB175,"Phillips, Nguyen and Beard",175
+PNAB178,"Phillips, Nguyen and Beard",178
+PNAB188,"Phillips, Nguyen and Beard",188
+PNAB189,"Phillips, Nguyen and Beard",189
+PNAB199,"Phillips, Nguyen and Beard",199
+PNAB204,"Phillips, Nguyen and Beard",204
+PNAB213,"Phillips, Nguyen and Beard",213
+PNAB215,"Phillips, Nguyen and Beard",215
+PNAB218,"Phillips, Nguyen and Beard",218
+PNAB220,"Phillips, Nguyen and Beard",220
+PNAB235,"Phillips, Nguyen and Beard",235
+PNAB238,"Phillips, Nguyen and Beard",238
+PNAB246,"Phillips, Nguyen and Beard",246
+PNAB271,"Phillips, Nguyen and Beard",271
+PNAB283,"Phillips, Nguyen and Beard",283
+PNAB284,"Phillips, Nguyen and Beard",284
+PNAB292,"Phillips, Nguyen and Beard",292
+PNAB295,"Phillips, Nguyen and Beard",295
+PNAB318,"Phillips, Nguyen and Beard",318
+PNAB326,"Phillips, Nguyen and Beard",326
+PNAB333,"Phillips, Nguyen and Beard",333
+PNAB346,"Phillips, Nguyen and Beard",346
+PNAB359,"Phillips, Nguyen and Beard",359
+PNAB363,"Phillips, Nguyen and Beard",363
+PNAB368,"Phillips, Nguyen and Beard",368
+PNAB376,"Phillips, Nguyen and Beard",376
+PNAB378,"Phillips, Nguyen and Beard",378
+PNAB380,"Phillips, Nguyen and Beard",380
+PNAB391,"Phillips, Nguyen and Beard",391
+PNAB405,"Phillips, Nguyen and Beard",405
+PNAB410,"Phillips, Nguyen and Beard",410
+PNAB441,"Phillips, Nguyen and Beard",441
+PNAB443,"Phillips, Nguyen and Beard",443
+PNAB446,"Phillips, Nguyen and Beard",446
+PNAB456,"Phillips, Nguyen and Beard",456
+PNAB462,"Phillips, Nguyen and Beard",462
+PNAB473,"Phillips, Nguyen and Beard",473
+PNAB474,"Phillips, Nguyen and Beard",474
+PNAB479,"Phillips, Nguyen and Beard",479
+PNAB493,"Phillips, Nguyen and Beard",493
+PNAB494,"Phillips, Nguyen and Beard",494
+PNAB498,"Phillips, Nguyen and Beard",498
+PNAB500,"Phillips, Nguyen and Beard",500
+PNAB512,"Phillips, Nguyen and Beard",512
+PNAB515,"Phillips, Nguyen and Beard",515
+PNAB522,"Phillips, Nguyen and Beard",522
+PNAB523,"Phillips, Nguyen and Beard",523
+PNAB532,"Phillips, Nguyen and Beard",532
+PNAB540,"Phillips, Nguyen and Beard",540
+PNAB549,"Phillips, Nguyen and Beard",549
+PNAB569,"Phillips, Nguyen and Beard",569
+PNAB575,"Phillips, Nguyen and Beard",575
+PNAB584,"Phillips, Nguyen and Beard",584
+PNAB587,"Phillips, Nguyen and Beard",587
+PNAB589,"Phillips, Nguyen and Beard",589
+PNAB590,"Phillips, Nguyen and Beard",590
+PNAB595,"Phillips, Nguyen and Beard",595
+PNAB596,"Phillips, Nguyen and Beard",596
+PNAB597,"Phillips, Nguyen and Beard",597
+PNAB608,"Phillips, Nguyen and Beard",608
+PNAB621,"Phillips, Nguyen and Beard",621
+PNAB624,"Phillips, Nguyen and Beard",624
+PNAB628,"Phillips, Nguyen and Beard",628
+PNAB641,"Phillips, Nguyen and Beard",641
+PNAB648,"Phillips, Nguyen and Beard",648
+PNAB657,"Phillips, Nguyen and Beard",657
+PNAB659,"Phillips, Nguyen and Beard",659
+PNAB662,"Phillips, Nguyen and Beard",662
+PNAB664,"Phillips, Nguyen and Beard",664
+PNAB669,"Phillips, Nguyen and Beard",669
+PNAB676,"Phillips, Nguyen and Beard",676
+PNAB677,"Phillips, Nguyen and Beard",677
+PNAB678,"Phillips, Nguyen and Beard",678
+PNAB681,"Phillips, Nguyen and Beard",681
+PNAB694,"Phillips, Nguyen and Beard",694
+PNAB702,"Phillips, Nguyen and Beard",702
+PNAB718,"Phillips, Nguyen and Beard",718
+PNAB730,"Phillips, Nguyen and Beard",730
+PNAB734,"Phillips, Nguyen and Beard",734
+PNAB737,"Phillips, Nguyen and Beard",737
+PNAB754,"Phillips, Nguyen and Beard",754
+PNAB757,"Phillips, Nguyen and Beard",757
+PNAB758,"Phillips, Nguyen and Beard",758
+PNAB763,"Phillips, Nguyen and Beard",763
+PNAB765,"Phillips, Nguyen and Beard",765
+PNAB788,"Phillips, Nguyen and Beard",788
+PNAB793,"Phillips, Nguyen and Beard",793
+PNAB812,"Phillips, Nguyen and Beard",812
+PNAB821,"Phillips, Nguyen and Beard",821
+PNAB822,"Phillips, Nguyen and Beard",822
+PNAB825,"Phillips, Nguyen and Beard",825
+PNAB832,"Phillips, Nguyen and Beard",832
+PNAB834,"Phillips, Nguyen and Beard",834
+PNAB848,"Phillips, Nguyen and Beard",848
+PNAB854,"Phillips, Nguyen and Beard",854
+PNAB862,"Phillips, Nguyen and Beard",862
+PNAB863,"Phillips, Nguyen and Beard",863
+PNAB865,"Phillips, Nguyen and Beard",865
+PNAB873,"Phillips, Nguyen and Beard",873
+PNAB883,"Phillips, Nguyen and Beard",883
+PNAB884,"Phillips, Nguyen and Beard",884
+PNAB892,"Phillips, Nguyen and Beard",892
+PNAB893,"Phillips, Nguyen and Beard",893
+PNAB898,"Phillips, Nguyen and Beard",898
+PNAB901,"Phillips, Nguyen and Beard",901
+PNAB906,"Phillips, Nguyen and Beard",906
+PNAB912,"Phillips, Nguyen and Beard",912
+PNAB913,"Phillips, Nguyen and Beard",913
+PNAB921,"Phillips, Nguyen and Beard",921
+PNAB922,"Phillips, Nguyen and Beard",922
+PNAB923,"Phillips, Nguyen and Beard",923
+PNAB958,"Phillips, Nguyen and Beard",958
+PNAB965,"Phillips, Nguyen and Beard",965
+PNAB972,"Phillips, Nguyen and Beard",972
+PNAB975,"Phillips, Nguyen and Beard",975
+PNAB976,"Phillips, Nguyen and Beard",976
+W124,Whitaker-Rojas,124
+W128,Whitaker-Rojas,128
+W141,Whitaker-Rojas,141
+W144,Whitaker-Rojas,144
+W146,Whitaker-Rojas,146
+W157,Whitaker-Rojas,157
+W175,Whitaker-Rojas,175
+W188,Whitaker-Rojas,188
+W189,Whitaker-Rojas,189
+W191,Whitaker-Rojas,191
+W195,Whitaker-Rojas,195
+W200,Whitaker-Rojas,200
+W209,Whitaker-Rojas,209
+W212,Whitaker-Rojas,212
+W227,Whitaker-Rojas,227
+W231,Whitaker-Rojas,231
+W242,Whitaker-Rojas,242
+W244,Whitaker-Rojas,244
+W246,Whitaker-Rojas,246
+W262,Whitaker-Rojas,262
+W267,Whitaker-Rojas,267
+W300,Whitaker-Rojas,300
+W312,Whitaker-Rojas,312
+W314,Whitaker-Rojas,314
+W321,Whitaker-Rojas,321
+W338,Whitaker-Rojas,338
+W345,Whitaker-Rojas,345
+W351,Whitaker-Rojas,351
+W353,Whitaker-Rojas,353
+W379,Whitaker-Rojas,379
+W388,Whitaker-Rojas,388
+W399,Whitaker-Rojas,399
+W403,Whitaker-Rojas,403
+W405,Whitaker-Rojas,405
+W409,Whitaker-Rojas,409
+W415,Whitaker-Rojas,415
+W418,Whitaker-Rojas,418
+W420,Whitaker-Rojas,420
+W431,Whitaker-Rojas,431
+W453,Whitaker-Rojas,453
+W471,Whitaker-Rojas,471
+W474,Whitaker-Rojas,474
+W477,Whitaker-Rojas,477
+W480,Whitaker-Rojas,480
+W487,Whitaker-Rojas,487
+W488,Whitaker-Rojas,488
+W507,Whitaker-Rojas,507
+W511,Whitaker-Rojas,511
+W515,Whitaker-Rojas,515
+W523,Whitaker-Rojas,523
+W524,Whitaker-Rojas,524
+W526,Whitaker-Rojas,526
+W531,Whitaker-Rojas,531
+W537,Whitaker-Rojas,537
+W540,Whitaker-Rojas,540
+W546,Whitaker-Rojas,546
+W549,Whitaker-Rojas,549
+W552,Whitaker-Rojas,552
+W553,Whitaker-Rojas,553
+W572,Whitaker-Rojas,572
+W589,Whitaker-Rojas,589
+W609,Whitaker-Rojas,609
+W617,Whitaker-Rojas,617
+W622,Whitaker-Rojas,622
+W626,Whitaker-Rojas,626
+W632,Whitaker-Rojas,632
+W645,Whitaker-Rojas,645
+W647,Whitaker-Rojas,647
+W673,Whitaker-Rojas,673
+W705,Whitaker-Rojas,705
+W712,Whitaker-Rojas,712
+W719,Whitaker-Rojas,719
+W726,Whitaker-Rojas,726
+W733,Whitaker-Rojas,733
+W742,Whitaker-Rojas,742
+W743,Whitaker-Rojas,743
+W764,Whitaker-Rojas,764
+W768,Whitaker-Rojas,768
+W769,Whitaker-Rojas,769
+W793,Whitaker-Rojas,793
+W803,Whitaker-Rojas,803
+W812,Whitaker-Rojas,812
+W813,Whitaker-Rojas,813
+W820,Whitaker-Rojas,820
+W822,Whitaker-Rojas,822
+W827,Whitaker-Rojas,827
+W834,Whitaker-Rojas,834
+W861,Whitaker-Rojas,861
+W866,Whitaker-Rojas,866
+W879,Whitaker-Rojas,879
+W880,Whitaker-Rojas,880
+W889,Whitaker-Rojas,889
+W902,Whitaker-Rojas,902
+W912,Whitaker-Rojas,912
+W932,Whitaker-Rojas,932
+W943,Whitaker-Rojas,943
+W962,Whitaker-Rojas,962
+W964,Whitaker-Rojas,964
+W969,Whitaker-Rojas,969
+W970,Whitaker-Rojas,970
+W971,Whitaker-Rojas,971
+W972,Whitaker-Rojas,972
+W973,Whitaker-Rojas,973
+W977,Whitaker-Rojas,977
+W982,Whitaker-Rojas,982
+W992,Whitaker-Rojas,992
